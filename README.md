@@ -48,8 +48,8 @@ After 75 epochs of training on SPEED:
 
 | Metric                | Value           |
 |-----------------------|-----------------|
-| Rotation Error (ER)   | 39.74°          |
-| Translation Error (ET)| 26.2184 m       | 
+| Rotation Error (ER)   | 3.974°          |
+| Translation Error (ET)| 2.62184 m       | 
 
 ---
 ## 🔁 Pipeline
